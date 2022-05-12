@@ -1,6 +1,6 @@
 # San Luis Valley Colorado
 
-TODO MAP + PICs
+TODO MAP
 
 ## Travel Times
 
@@ -47,13 +47,15 @@ Here is a list of travel times:
 
 ## Notes
 
-1. Mt. Crestone
+### 1. Mt. Crestone
 
-  - Camping:
+TODO Pictures
+
+**Camping:**
     - North Crestone Creek Campground (FIRE?)
     - Dispersed (FIRE?)
   
-  - Hiking:
+**Hiking:**
     - Start ~8500 ft
     - [Willow Creek Trailhead](https://goo.gl/maps/ZvX8pLDXAk3oedE38)
         - Willow Lake (11,500) 10.2 miles 5.5hrs
@@ -62,15 +64,19 @@ Here is a list of travel times:
 	- North Crestone Creek (11,815) 11.3 miles 6hr [Lake]
 	- North Fork Trail (~12000) ~11 miles 6hr [Peaks]
   
-  - Buddhist Sites:
+**Buddhist Sites:**
     - [Sangdo Palri Temple of Wisdom and Compassion](http://www.mangalashribhuti.org/)
     - [Yeshe Rangsal Stupa](https://tsoknyirinpoche.org/yeshe-rangsal/stupa-and-shrine-hall/)
     - [Tashi Gomang Stupa](https://kttg.org/)
     - [Crestone Mountain Zen Center](https://www.dharmasangha.org/)
 
-2a. Sand Dunes Park
+### 2a. Sand Dunes Park
 
-  - Camping:
+TODO Pic sand dunes
+TODO Pic dunes backcamping
+TODO Pic Ellingwood point
+
+**Camping:**
     - Visit from Crestone campsite (1hr one way)
     - Medano Creek Dispersed
 	- 4x4 Required (~20-30 min one way to shuttle) 
@@ -88,6 +94,8 @@ Here is a list of travel times:
 	- Ellingwood Point (14066) 14.0 miles 8.7hr
 	- Blanca (14345) + Little Bear (14036) 12.5 miles
 
-2b. Wheeler Geological Area
+### 2b. Wheeler Geological Area
 
-2c. (North Valley?)
+TODO Pics Wheeler rocks
+
+### 2c. (North Valley?)
