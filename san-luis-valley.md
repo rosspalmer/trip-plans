@@ -1,6 +1,6 @@
 # San Luis Valley Colorado
 
-TODO MAP
+![San Luis Map](https://cdn2.apstatic.com/photos/climb/105801658_medium_1557857414.jpg)
 
 ## Travel Times
 
@@ -49,7 +49,8 @@ Here is a list of travel times:
 
 ### 1. Mt. Crestone
 
-TODO Pictures
+![Kit Carlson](http://www.sangres.com/cimages/features/panoramas02/slv-sangres13big.jpg)
+![Mt Crestone Mnts](http://www.sangres.com/cimages/features/panoramas04/kitcarson01big.jpg)
 
 **Camping:**
     - North Crestone Creek Campground (FIRE?)
