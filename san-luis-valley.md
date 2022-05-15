@@ -19,28 +19,29 @@ CO but is realible in weather and holiday traffic.
 Here is a list of travel times:
 
 **Denver (via Salida on 285)**
-- [Salida](): 2.5hr 142 miles
-- [Moffat](): 3.2hr 181 miles
-- [Crestone](): 3.5hr 194 miles
-- [Sand Dunes]():
-- [Alamosa]():
+- [Salida](https://goo.gl/maps/aadKAsYThDNRzn5k8): 2.5hr 142 miles
+- [Moffat](https://goo.gl/maps/4hLieq9vtgS8f4JDA): 3.2hr 181 miles
+- [Crestone](https://goo.gl/maps/DkkM3irzvkh3uNSD7): 3.5hr 194 miles
+- [Sand Dunes](https://goo.gl/maps/YEcnWdPScH4zd7ZN6): 3.8hr 223 miles
+- [Alamosa](https://goo.gl/maps/L5ayQ3UxRjCtfYt28): 3.7hr 218 miles
 - [Del Norte]():
 
 **Denver (via Walsenburg on I25+160)**
-- [Walsenburg]():
-- [Fort Garland]():
-- [Sand Dunes]():
-- [Crestone]():
-- [Alamosa]():
+- [Walsenburg](https://goo.gl/maps/JQucZqEYGEys9VqD9): 2.4hr 163 miles
+- [Fort Garland](https://goo.gl/maps/F9W7kCYy4ytCYDNv6): 3.2hr 210 miles
+- [Sand Dunes](https://goo.gl/maps/YEcnWdPScH4zd7ZN6): 3.5hr 237 miles
+- [Alamosa](https://goo.gl/maps/L5ayQ3UxRjCtfYt28): 3.5hr 235 miles
 - [Del Norte]():
 
 **Crestone**
 - [Sand Dunes]():
 - [Lake Como Rd]():
-- [Alamosa]():
+- [Alamosa](https://goo.gl/maps/L5ayQ3UxRjCtfYt28):
 - [Del Norte]():
 
-**Del Norte**
+**Del Norte**'
+- [Crestone](https://goo.gl/maps/DkkM3irzvkh3uNSD7):
+- [Alamosa](https://goo.gl/maps/L5ayQ3UxRjCtfYt28):
 - [South Fork]():
 - [Wheeler Geological Area]():
 - [Creede]():
@@ -77,7 +78,7 @@ Here is a list of travel times:
 - [Tashi Gomang Stupa](https://kttg.org/)
 - [Crestone Mountain Zen Center](https://www.dharmasangha.org/)
 
-### 2a. Sand Dunes Park
+### 2. Sand Dunes Park
 
 TODO Pic sand dunes
 TODO Pic dunes backcamping
@@ -103,8 +104,16 @@ TODO Pic Ellingwood point
     - Ellingwood Point (14066) 14.0 miles 8.7hr
     - Blanca (14345) + Little Bear (14036) 12.5 miles
 
-### 2b. Wheeler Geological Area
+### 3. Wheeler Geological Area
 
-TODO Pics Wheeler rocks
+![Wheeler Area Rocks](https://upload.wikimedia.org/wikipedia/commons/c/cb/A272%2C_Wheeler_Geologic_Area%2C_La_Garita_Wilderness%2C_Colorado%2C_USA%2C_2008.JPG)
 
-### 2c. (North Valley?)
+TODO Hike/Road Map
+
+- [Area Website](https://www.fs.usda.gov/recarea/riogrande/recarea/?recid=29264)
+
+Wheeler is accessible by a **7 mile hike** or a grueling **14 mile four wheel drive road**.
+
+- Camping: ?
+
+### 4. (North Valley?)
