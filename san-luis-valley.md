@@ -111,9 +111,10 @@ Visiting Center Hours:  9:00 AM - 4:30 PM
 **Camping:**
 
 - Visit from Crestone campsite (1hr one way)
-- Medano Creek Dispersed
+- Medano Creek Dispersed (4WD)
+    - 21 Sites 
     - 4x4 Required (~20-30 min one way to shuttle) 
-    - May be too crowded Memorial Weekend
+    - https://www.nps.gov/grsa/planyourvisit/medano-pass-road.htm
 - Zapata Falls Campground
     - ~20 min from Dunes
     - Popular but may have a space available
