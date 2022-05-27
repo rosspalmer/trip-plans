@@ -86,7 +86,7 @@ Here is a list of travel times:
 
 ![Sand Dunes](https://www.theimagestory.com/wp-content/uploads/2013/12/MDeYoung_The_Img_Story_Sand_Dunes1.jpg)
 
-TODO Pic dunes backcamping
+TODO Pic 4wd backcamping
 
 TODO Pic Ellingwood point
 
@@ -124,8 +124,7 @@ Visiting Center Hours:  9:00 AM - 4:30 PM
 **Hiking:**
 
 - Start ~7800 ft
-- Dunes:
-    - Cost ?
+- TODO Dunes hiking info
 - [Lake Como Rd](https://goo.gl/maps/mnHTRoXs8J9R8iAr7)
     - Lake Como () 8.3 miles 5hr
     - Ellingwood Point (14066) 14.0 miles 8.7hr
@@ -133,7 +132,7 @@ Visiting Center Hours:  9:00 AM - 4:30 PM
 
 ### C. Saguache 
 
-TODO Mountain pick
+![Saguache County](https://live.staticflickr.com/7579/15776146259_65e893cd9f_b.jpg)
 
 TODO 114 Map
 
@@ -145,7 +144,7 @@ Many small established campgrounds with dispersed camping rounds in between.
 The La Garita wilderness is located southwest of Saguache at the end of the
 national forest in this region.
 
-_From Saguache_
+_From [Saguache]()_
 
 - [Buffalo Pass](https://goo.gl/maps/MxSwRvY5Jmy1fRJj9): 28 min 27 miles
     - https://www.fs.usda.gov/recarea/riogrande/recarea/?recid=29300
@@ -170,7 +169,7 @@ TODO Camping STONE CELLAR
 
 ### D. South Fork
 
-TODO Pic of town
+![The Bend](https://i.imgur.com/8ypHY0R.jpeg)
 
 TODO Divide ranger map
 
